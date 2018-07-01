@@ -2,8 +2,14 @@
     {
         "moduleName" : "module1",
         "path"       : "modules/module1/module1.py",
-        "execute"    : true ,
+        "execute"    : false ,
         "description": "",
         "owner"      : ""
+    },{
+        "moduleName" : "seqModelTest",
+        "path"       : "modules/seqModelTest/seqModelTest.py",
+        "execute"    : true ,
+        "description": "Tests the sequential module",
+        "owner"      : "Sankha"
     }
 ]
